@@ -33,3 +33,7 @@ execute commands from the file `~/.bashrc` if it exists. This behavior can be
 disabled by using the `--norc` option. Alternatively, you can use the
 `--rcfile file` option to specify a different file for Bash to read and execute
 commands from instead of `~/.bashrc`.
+
+## License
+
+[LICENSE](LICENSE)
