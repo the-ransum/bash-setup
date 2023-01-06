@@ -1,3 +1,5 @@
+# .bash_aliases
+
 # Set colors for ls and grep scripts
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
